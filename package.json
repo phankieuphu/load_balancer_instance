@@ -6,7 +6,7 @@
   "author": "Patrick Phan <phankieuphu@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "node main.js"
   },
   "dependencies": {
     "express": "^4.21.2"
