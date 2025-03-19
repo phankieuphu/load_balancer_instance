@@ -1,0 +1,14 @@
+{
+  "name": "load_balancer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/phankieuphu/load_balancer_instance.git",
+  "author": "Patrick Phan <phankieuphu@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
